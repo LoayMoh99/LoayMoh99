@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer, focusing more in Mobile Development (Flutter)</h3>
 
 
-- 🔭 I’m currently studing Computer Engineering at Cairo University in my last year.
+- 🔭 I’m currently persuing a Computer Engineering Degree from Cairo University in my final year.
 
 - 🌱 I’m currently learning **Android (Kotlin) inaddition to Devops and CI/CD**
 
