@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loay Mohamed</h1>
-<h3 align="center">A Passionate Software Engineer, focusing more in Mobile Development (Flutter) & in Deeplearning</h3>
+<h3 align="center">A Passionate Software Engineer, focusing more in Automating Software Development specially Mobile Dev. + Deep-learning</h3>
 
 
 - 🔭 I’m currently persuing a Computer Engineering Degree from Cairo University in my final year.
