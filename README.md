@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Loay Mohamed</h1>
-<h3 align="center">A Passionate Software Engineer, focusing more in Mobile Development (Flutter)</h3>
+<h3 align="center">A Passionate Software Engineer, focusing more in Mobile Development (Flutter) & in Deeplearning</h3>
 
 
 - 🔭 I’m currently persuing a Computer Engineering Degree from Cairo University in my final year.
 
-- 🌱 I’m currently learning **Android (Kotlin) inaddition to Devops and CI/CD**
+- 🌱 I’m currently learning **Deep-learning and Computer Vision inaddition to Devops and CI/CD**
 
 - 👨‍💻 I learned Flutter since Nov. 2019 and worked as a Flutter Developer in some Internships and Freelance Project.
 
