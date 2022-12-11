@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Loay Mohamed</h1>
-<h3 align="center">A Passionate Software Engineer, focusing more in Automating Software Development specially Mobile Dev. + Deep-learning</h3>
+<h3 align="center">A Passionate Software Engineer, focusing more in Automating Software Development specially Backend Dev. and Mobile Dev.</h3>
 
 
-- 🔭 I’m currently persuing a Computer Engineering Degree from Cairo University in my final year.
+- 🔭 I’d graduated with a Computer Engineering Degree from Cairo University with Excellent Grade (CGPA:3.65).
 
-- 🌱 I’m currently learning **Deep-learning and Computer Vision inaddition to Devops and CI/CD**
-
-- 👨‍💻 I learned Flutter since Nov. 2019 and worked as a Flutter Developer in some Internships and Freelance Project.
+- 🌱 I’m currently learning **Advanced Backend Development inaddition to AI**
 
 - 📫 How to reach me **loaymohamed1999@gmail.com**
 
 - 📄 Know more about my experiences [LinkindIn](https://www.linkedin.com/in/loay-mohamed-574464182/)
-
-- ⚡ Fun fact **I think I am funny by default 😂**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoayMoh99&show_icons=true&locale=en" alt="LoayMoh99" /></p>
