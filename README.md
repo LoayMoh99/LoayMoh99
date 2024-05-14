@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Loay Mohamed</h1>
-<h3 align="center">A Passionate Software Engineer, focusing more in Automating Software Development specially Backend Dev. and Mobile Dev.</h3>
+<h3 align="center">Software Engineer, also AWS Developer Certified, with almost 2 years of work experience. 
 
+Experienced working with AWS for Cloud/DevOps, Typescript (Node.js) for Backend, and Flutter for Mobile.
+Love learning by teaching others and sharing what I know, achieving this by tutoring students at Cairo University as a Teaching Assistant.</h3>
+
+- 🌱 I’m currently working as **SDE @ Keepoala | TA @ Cairo University**
+
+- 📫 [AWS Certified Developer – Associate](https://www.credly.com/badges/fca4810f-e362-4356-b63e-bfdc43fb10e7/linked_in_profile)
 
 - 🔭 I’d graduated with a Computer Engineering Degree from Cairo University with Excellent Grade (CGPA:3.65).
-
-- 🌱 I’m currently learning **Advanced Backend Development inaddition to AI**
 
 - 📫 How to reach me **loaymohamed1999@gmail.com**
 
