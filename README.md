@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Loay Mohamed</h1>
 <h3 align="center">Software Engineer, also AWS Developer Certified, with almost 4 years of work experience. 
 
-Software Engineer, also AWS Developer Certified, with 4 years of work experience. 
 Experienced working with AWS/GCP for Cloud/DevOps, JS/TS (Node.js)/PHP (Laravel) for Backend, and React for Frontend, and React-Native/Flutter for Mobile.
 Love learning by teaching others and sharing what I know, achieving this by tutoring students at Cairo University as a Teaching Assistant.</h3>
 
