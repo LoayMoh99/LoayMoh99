@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Loay Mohamed</h1>
-<h3 align="center">Software Engineer, also AWS Developer Certified, with almost 2 years of work experience. 
+<h3 align="center">Software Engineer, also AWS Developer Certified, with almost 4 years of work experience. 
 
-Experienced working with AWS for Cloud/DevOps, Typescript (Node.js) for Backend, and Flutter for Mobile.
+Software Engineer, also AWS Developer Certified, with 4 years of work experience. 
+Experienced working with AWS/GCP for Cloud/DevOps, JS/TS (Node.js)/PHP (Laravel) for Backend, and React for Frontend, and React-Native/Flutter for Mobile.
 Love learning by teaching others and sharing what I know, achieving this by tutoring students at Cairo University as a Teaching Assistant.</h3>
 
-- 🌱 I’m currently working as **SDE @ Keepoala | TA @ Cairo University**
+- 🌱 I’m currently working as **Sr. SDE @ Halan Inc. (*Unicorn*) | TA @ Cairo University**
 
 - 📫 [AWS Certified Developer – Associate](https://www.credly.com/badges/fca4810f-e362-4356-b63e-bfdc43fb10e7/linked_in_profile)
 
